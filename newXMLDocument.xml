@@ -1,0 +1,17 @@
+<Request>
+<FlightSearch>
+	<Source>TEST</Source>
+	<From>LON</From>
+	<To>MCO</To>
+	<Journey>R</Journey>
+	<DepDate>23/05/2017</DepDate>
+	<RetDate>30/05/2017</RetDate>
+	<Adults>1</Adults>
+	<Children>0</Children>
+	<Infants>0</Infants>
+	<Carrier></Carrier>
+	<Cabin>4</Cabin>
+	<Availability>O</Availability>
+	<ReplyType>1</ReplyType>
+</FlightSearch>
+</Request>

@@ -1,0 +1,1057 @@
+[22-Dec-2016 06:12:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(2): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(16): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:16:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(2): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:19:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(2): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:19:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(2): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:20:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(3): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:20:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(3): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:20:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(3): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:21:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(3): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:21:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(3): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:21:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php:159
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(5): CI_Loader->view('front/pages/fli...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php on line 159
+[22-Dec-2016 06:31:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php:159
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(5): CI_Loader->view('front/pages/fli...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php on line 159
+[22-Dec-2016 06:31:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php:159
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(5): CI_Loader->view('front/pages/fli...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php on line 159
+[22-Dec-2016 06:34:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(3): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:35:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(3): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:36:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php:7
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(3): CI_Loader->view('front/include/h...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/include/header.php on line 7
+[22-Dec-2016 06:36:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php:159
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(4): CI_Loader->view('front/pages/fli...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php on line 159
+[22-Dec-2016 06:38:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php:159
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(4): CI_Loader->view('front/pages/fli...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php on line 159
+[22-Dec-2016 06:38:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php:159
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include()
+#1 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home1/snvinfot/public_html/travel/new/application/views/front/layout.php(4): CI_Loader->view('front/pages/fli...')
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(834): include('/home1/snvinfot...')
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(19): CI_Loader->view('front/layout', Array)
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->Offerslist()
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/application/views/front/pages/flightlist.php on line 159
+[22-Dec-2016 06:49:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:49:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:49:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:49:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:49:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:49:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:49:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:49:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:50:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:50:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 06:54:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:01:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:01:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:01:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:01:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:01:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:01:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:01:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:04:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:05:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:05:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:05:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:06:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(29): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:07:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:07:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:07:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:07:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:07:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:08:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:08:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:08:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:10:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:10:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:11:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/application/models/offers_model.php(7): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(304): Offers_model->__construct()
+#5 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(24): CI_Loader->model('Offers_model')
+#6 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(360): offers->OfferDetails('24687')
+#7 /home1/snvinfot/public_html/travel/new/index.php(202): require_once('/home1/snvinfot...')
+#8 {main}
+  thrown in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:12:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:12:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:12:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:12:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:13:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:14:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:14:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:14:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:14:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:14:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:14:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:16:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:16:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:16:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:17:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:17:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:17:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:17:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:17:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:17:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:17:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:19:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:24:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:25:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:26:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 07:26:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php:92
+Stack trace:
+#0 /home1/snvinfot/public_html/travel/new/system/database/DB_driver.php(116): CI_DB_mysql_driver->db_pconnect()
+#1 /home1/snvinfot/public_html/travel/new/system/database/DB.php(149): CI_DB_driver->initialize()
+#2 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(347): DB(Array, NULL)
+#3 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(1172): CI_Loader->database()
+#4 /home1/snvinfot/public_html/travel/new/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home1/snvinfot/public_html/travel/new/system/core/Controller.php(52): CI_Loader->initialize()
+#6 /home1/snvinfot/public_html/travel/new/application/controllers/offers.php(8): CI_Controller->__construct()
+#7 /home1/snvinfot/public_html/travel/new/system/core/CodeIgniter.php(309): offers->__construct()
+#8 /home1/snvinfot/public_html/travel/new/index.php(202): requi in /home1/snvinfot/public_html/travel/new/system/database/drivers/mysql/mysql_driver.php on line 92
+[22-Dec-2016 08:44:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home1/snvinfot/public_html/travel/new/application/controllers/home.php on line 22
+[22-Dec-2016 08:44:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home1/snvinfot/public_html/travel/new/application/controllers/home.php on line 22
+[22-Dec-2016 08:44:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home1/snvinfot/public_html/travel/new/application/controllers/home.php on line 22
